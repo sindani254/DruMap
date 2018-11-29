@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1009227586300",
+    "firebase_url": "https://drumap-44a04.firebaseio.com",
+    "project_id": "drumap-44a04",
+    "storage_bucket": "drumap-44a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009227586300:android:a13810f4dce21fac",
+        "android_client_info": {
+          "package_name": "com.crimsoft.drumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009227586300-tvqkefq8m4g54ff8vekkf67ltmrj9mdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crimsoft.drumap",
+            "certificate_hash": "625bd78656f86eca654a88fc6c61d8f0717dc806"
+          }
+        },
+        {
+          "client_id": "1009227586300-harg1bg1l5kh0trf0knf5cov0djc3ojq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70tE86I6c4OGsbxrkppKPe9DMG9CgrRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009227586300-harg1bg1l5kh0trf0knf5cov0djc3ojq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
