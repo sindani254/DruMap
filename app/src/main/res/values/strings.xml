@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DruMap</string>
+    <string name="i_m_a_vendor">I\'m a vendor</string>
+    <string name="i_m_a_customer">I\'m a customer</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
 </resources>
