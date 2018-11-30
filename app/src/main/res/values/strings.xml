@@ -4,4 +4,5 @@
     <string name="i_m_a_customer">I\'m a customer</string>
     <string name="email">email</string>
     <string name="password">password</string>
+    <string name="title_activity_vendor_map">Map</string>
 </resources>
