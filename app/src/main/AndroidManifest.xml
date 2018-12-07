@@ -24,7 +24,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".VendorLoginActivity" />
-        <activity android:name=".MapActivity" />
         <activity android:name=".CustomerLoginActivity" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -38,6 +37,9 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
+        <activity
+            android:name=".TrackMeActivity"
+            android:label="@string/title_activity_track_me" />
         <activity
             android:name=".VendorMapActivity"
             android:label="@string/title_activity_vendor_map"></activity>
